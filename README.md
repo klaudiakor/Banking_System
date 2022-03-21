@@ -1,6 +1,6 @@
 # Banking_System
 
-* Jak uruchomic program:
+* ##### Jak uruchomic program:
 
     - Aby uruchomic program, nalezy wykonac:   make run
     - Aby skompilowac program, nalezy wykonac:  make all
@@ -12,7 +12,7 @@
 
 ----------------------------------------------------------------------------------
 
-* O projekcie:
+* ##### O projekcie:
     Projekt stanowi implementacje systemu bankowego. 
     Mozliwe sa dwa widoki: klienta oraz pracownika. 
     Do poziomu pracownika mozna sie dostac przez zalogowanie sie na odpowiednie 
